@@ -11,7 +11,7 @@
     "php": ">= 7.3",
     "intercom/intercom-php": "^4.0",
     "illuminate/support": "^5.8|^6.0|^7.0|^8.0|^9.11",
-    "guzzlehttp/psr7": "^1.7.0"
+    "guzzlehttp/psr7": "^1.7.0|^2.2"
   },
   "autoload": {
     "psr-4": {
