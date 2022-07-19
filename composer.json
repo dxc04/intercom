@@ -1,5 +1,5 @@
 {
-  "name": "darkin1/intercom",
+  "name": "dxc04/intercom",
   "description": "Wrapper on the Intercom class provided by Intercom - with support for Laravel 5.x, 6.x, 7.x",
   "keywords": ["laravel", "intercom", "intercom.io", "api", "guzzle"],
   "license": "MIT",
@@ -10,7 +10,7 @@
   "require": {
     "php": ">= 7.3",
     "intercom/intercom-php": "^4.0",
-    "illuminate/support": "^5.8|^6.0|^7.0|^8.0",
+    "illuminate/support": "^5.8|^6.0|^7.0|^8.0|^9.11",
     "guzzlehttp/psr7": "^1.7.0"
   },
   "autoload": {
